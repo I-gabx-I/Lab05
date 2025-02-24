@@ -19,4 +19,5 @@ Aplicación de encuestas interactiva con validación en tiempo real y barra de p
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/I-gabx-I/Lab05
+   codesandbox : https://codesandbox.io/p/github/I-gabx-I/Lab05/main
    ```
